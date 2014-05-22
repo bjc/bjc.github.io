@@ -1,0 +1,3 @@
+[submodule "mult"]
+	path = mult
+	url = git@github.com:bjc/mult.git
